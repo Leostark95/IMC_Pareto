@@ -1,0 +1,129 @@
+﻿Fecha;N° factura;Cliente;Ciudad;Vendedor ;Localización;Detalle de la inconsistencia;Cantidad;Área responsable;Solución
+31/01/2023;6447;Nestor Zuluaga Gomez;Cali;;MB;Pedido incompleto;6;;Nota crédito
+30/10/2023;4382;Gloria Gonzalez;Cali;Katerin Vanegas;MB;No llegó el pedido;3;;Nota crédito
+29/11/2023;5813;Nestor Zuluaga Gomez;Cali;Katerin Vanegas;MB;Avería;17;;Nota crédito
+11/12/2023;5813;Néstor Zuluaga Gómez;Cali;Sulmi Ruíz;MB;No llegó el pedido;12;NC-2-354;
+19/12/2023;6039;Papelería Universal;Cali;Katerin Vanegas;MB;No llegó el pedido;36;;Nota crédito
+19/12/2023;6203;Papelería Universal;Cali;Katerin Vanegas;MB;No llegó el pedido;12;;Nota crédito
+19/12/2023;6099;Santiago Martínez;Manizales;Laura;MB;Avería;1;;
+20/12/2023;6215;Nestor Zuluaga Gomez;Cali;Katerin Vanegas;MB;Avería;1;;Nota crédito
+24/12/2023;6228;;Sincelejo;;MB;Expectativas no cumplidas por el producto;3;;
+26/12/2023;6208;;Sincelejo;;MB;Avería;10;;
+26/12/2023;6206;;Sincelejo;;MB;Avería;10;;
+10/01/2024;6005;Yuly Yuliana Gonzales;Medellín;Susana;MB;Expectativas no cumplidas por el producto;2;;Nota crédito
+19/01/2024;5609;Tatiana Hernandes;Bello;Andrea Herrera;MB;Error de envío ;3;NC-2-342;
+24/01/2024;6296;Carmen Marriaga Angulo;Turbaco;Cindy Quinto;MB;Expectativas no cumplidas por el producto;6;NC-2-374;
+24/01/2024;6251;Comercializadora Bedoya Giraldo S.A.;Santa Marta;Cindy Quinto;MB;Defectos en el contenido;1;NC-2-376;
+24/01/2024;6306;Merc cosmetics S.A.S;Montería;Cindy Quinto;MB;Pedido incompleto;1;;
+24/01/2024;6246;Karen Lorena Machado Fernandez;La Jagua de Ibirico;Cindy Quinto;MB;Defectos en el contenido;1;NC-2-378;
+24/01/2024;6068;Marta Elena Herrea Zapata;Montería;Cindy Quinto;MB;Avería;2;NC-2-380;
+24/01/2024;666;Marta Elena Herrea Zapata;Montería;Cindy Quinto;MB;Defectos en el contenido;2;NC-2-379;
+31/01/2024;5614;Nestor Zuluaga Gomez;Cali;Katerin Vanegas;MB;Avería;13;NC-2-359;Nota crédito
+31/01/2024;5616;Nestor Zuluaga Gomez;Cali;Katerin Vanegas;MB;Avería;13;NC-2-360;Nota crédito
+31/01/2024;5617;Nestor Zuluaga Gomez;Cali;Katerin Vanegas;MB;Avería;13;NC-2-361;Nota crédito
+31/01/2024;5618;Nestor Zuluaga Gomez;Cali;Katerin Vanegas;MB;Avería;13;;Nota crédito
+31/01/2024;5619;Nestor Zuluaga Gomez;Cali;Katerin Vanegas;MB;Expectativas no cumplidas por el producto;13;;Nota crédito
+31/01/2024;5619;Nestor Zuluaga Gomez;Cali;Katerin Vanegas;MB;Expectativas no cumplidas por el producto;12;;Nota crédito
+31/01/2024;5619;Nestor Zuluaga Gomez;Cali;Katerin Vanegas;MB;Expectativas no cumplidas por el producto;13;;Nota crédito
+31/01/2024;5619;Nestor Zuluaga Gomez;Cali;Katerin Vanegas;MB;Expectativas no cumplidas por el producto;13;;Nota crédito
+31/01/2024;5619;Nestor Zuluaga Gomez;Cali;Katerin Vanegas;MB;Expectativas no cumplidas por el producto;12;;Nota crédito
+31/01/2024;5619;Nestor Zuluaga Gomez;Cali;Katerin Vanegas;MB;Expectativas no cumplidas por el producto;13;;Nota crédito
+1/02/2024;6489;Santiago Martínez;Manizales;Laura;MB;Avería;1;NC-2-355;Nota crédito
+2/02/2024;6279;Inversiones el Boom;Medellín;Susana;MB;Error del cliente;9;;Nota crédito
+7/02/2024;1129;Gloria Gonzalez;Cali;Sulmi Ruíz;EF;Pedido incompleto;1;;
+7/02/2024;1129;Gloria Gonzalez;Cali;Sulmi Ruíz;EF;Error del cliente;1;;
+7/02/2024;6448;Nestor Zuluaga Gomez;Cali;Katerin Vanegas;MB;Pedido incompleto;1;;Nota crédito
+9/02/2024;6613;Carlos Humberto ;Cali;Katerin Vanegas;MB;Pedido incompleto;12;NC-2-366;Nota crédito
+13/02/2024;3098;Gabriela Mena;Apartadó;Amalia Cañas;EF;Pedido mal despachado;12;;
+13/02/2024;3730;Kenia Esperanza Hoyos;Necoclí;Amalia Cañas;MB;Expectativas no cumplidas por el producto;3;;
+14/02/2024;6658;Luz Helena Parra Escobar;;Katerin Vanegas;MB;Defectos en el contenido;3;NC-2-390;Nota crédito
+15/02/2024;6694;Eduar Castillo Guzman;Cali;Katerin Vanegas;MB;Defectos en el contenido;1;NC-2-371;
+15/02/2024;;Comercializadora de belleza Gomez;Medellín;Andrea Herrera;MB;Pedido incompleto;3;;
+15/02/2024;;Maryory Astrid Hoyos;Santuario ;Andrea Herrera;MB;Pedido incompleto;1;;
+19/02/2024;6463;Shirley Hinestroza;Cali;Katerin Vanegas;MB;No llegó el pedido;12;NC-2-373;Nota crédito
+19/02/2024;6435;Jose Alberto Duque Botero;Hiatonuevo;Cindy Quinto;MB;Error de facturación ;12;;Nota crédito
+19/02/2024;6528;Lucena Del Carmen Zarate Rodrigez ;Cartagena;Cindy Quinto;MB;Pedido mal despachado;72;;
+19/02/2024;6528;Lucena Del Carmen Zarate Rodrigez ;Cartagena;Cindy Quinto;MB;Defectos en el contenido;1;;
+20/02/2024;6711;Jonh Jairo Giraldo Arias;Cali;Katerin Vanegas;MB;Pedido incompleto;6;NC-2-383;Nota crédito
+20/02/2024;6667;Magica cosmeticos;Yumbo;Katerin Vanegas;MB;Pedido incompleto;1;NC-2-384;Nota crédito
+20/02/2024;6447;Nestor Zuluaga Gomez;Cali;Katerin Vanegas;MB;No llegó el pedido;6;NC-2-382;Nota crédito
+21/02/2024;3768;Elsa Magaly;Cali;Sulmi Ruíz;EF;Pedido mal despachado;1;;Anulación
+23/02/2024;6717;Adelaida Acosta Medina;;Katerin Vanegas;MB;Error de facturación ;6;Error en el codigo del catalogo ;Nota crédito
+23/02/2024;6732;Liliana Patricia Usurriaga ;Cali;Katerin Vanegas;MB;Error de facturación ;3;Error en el codigo del catalogo ;Nota crédito
+26/02/2024;640;Elsa Magaly;Cali;Katerin Vanegas;MB;Expectativas no cumplidas por el producto;1;NC-2-389;
+27/02/2024;5926;Elsa Magaly;Cali;Katerin Vanegas;MB;Expectativas no cumplidas por el producto;5;;
+28/02/2024;;Nestor Zuluaga Gomez;Cali;Katerin Vanegas;MB;Pedido incompleto;1;;
+1/03/2024;5262;Angelia Marcelia correa;Medellín;Andrea Herrera;MB;Exceso de pedido;8;NC-2-392;
+5/03/2024;6890;Sandra Milena Urrea;Cali;Katerin Vanegas;MB;Error de envío ;5;NC-2-469;
+6/03/2024;765;Sandra Milena Urrea;Cali;Katerin Vanegas;MB;Otro motivo;4;NC-2-471;
+7/03/2024;610;Simon Libardo Pantoja;Villagorgona;Katerin Vanegas;EF;Error de envío ;1;;
+11/03/2024;790;Tu Pelo;Medellín;Andrea Herrera;MB;Pedido incompleto;1;;
+14/03/2024;6956;Kika cosmeticos;Cali;Katerin Vanegas;MB;Exceso de pedido;6;;
+18/03/2024;7031;Ruben;Cali;Sulmi Ruíz;MB;Error de envío ;1;;
+18/03/2024;6957;Wilder Armando Moralez;Quibdó;Sandra Correa;MB;No llegó el pedido;36;;
+18/03/2024;7085;Ramírez Moreno y Asociado;Itagüí;Andrea Herrera;MB;Error de envío ;1;;
+21/03/2024;790;Tu Pelo;Medellín;Andrea Herrera;MB;Pedido incompleto;1;;
+22/03/2024;7118;Mallerline Narajos;Cali;Katerin Vanegas;MB;Devolución;12;;Nota crédito
+22/03/2024;6760;Claudia Milena Uribe;Medellín;Andrea Herrera;MB;Expectativas no cumplidas por el producto;103;NC-2-404;
+23/03/2024;;Gonzalez Ensuncho SAS;Cartagena;Cindy Quinto;MB;Devolución;61;;
+23/03/2024;;Gonzalez Ensuncho SAS;Cartagena;Cindy Quinto;MB;Devolución;84;;
+23/03/2024;6929;Ana Dionis Alvarez;Cali;Katerin Vanegas;;Error de envío ;5;;Nota crédito
+24/03/2024;7015;Ketty Amador Ospina;Cartagena;Cindy Quinto;MB;Avería;1;NC-2-436;
+25/03/2024;3992;Ketty Amador Ospina;Cartagena;Cindy Quinto;EF;Avería;3;;
+26/03/2024;6938;Keila Maria Raveles Vargas;Lorica;Cindy Quinto;MB;Avería;1;NC-2-437;
+27/03/2024;7158;Alejandro Pinilla Henao;Sincelejo;Cindy Quinto;MB;Defectos en el contenido;1;NC-2-435;
+2/04/2024;6448;Nestor Zuluaga Gomez;Cali;Katerin Vanegas;MB;Pedido incompleto;2;;Nota crédito
+5/04/2024;;Laura Cristina Cardona;Carepa;Amalia Cañas;MB;Defectos en el contenido;7;;
+5/04/2024;3092;Wisthry  Cárdenas;Apartadó;Amalia Cañas;EF;Error de facturación ;24;;
+5/04/2024;7360;Alba Delgado;Apartadó;Amalia Cañas;MB;Vencimiento de producto;1;NC-2-460;
+12/04/2024;;;;Laura Melissa Ramírez;MB;Avería;4;;
+12/04/2024;;Fernando Orozco;;Laura Melissa Ramírez;MB;Otro motivo;6;;Nota crédito
+12/04/2024;4110;Maria Londoño;;Laura Melissa Ramírez;MB;Error de facturación ;12;NC-2-441;
+15/04/2024;4115;Digna Velencia;Cali;Sulmi Ruíz;EF;Error de envío ;1;;
+18/04/2024;7356;Nestor Zuluaga Gomez;Cali;Sulmi Ruíz;MB;Devolución;21;;
+22/04/2024;7361;Luz Helena Parra Escobar;Cali;Sulmi Ruíz;MB;Pedido incompleto;3;NC-2-454;
+26/04/2024;5682;Ketty Amador Ospina;Cartagena;Cindy Quinto;MB;Defectos en el contenido;8;NC-2-517;
+26/04/2024;7015;Ketty Amador Ospina;Cartagena;Cindy Quinto;MB;Defectos en el contenido;5;NC-2-516;
+26/04/2024;4190;Ketty Amador Ospina;Cartagena;Cindy Quinto;EF;Avería;1;;
+26/04/2024;7419;Merc Cosmeticks SAS;Lorica;Cindy Quinto;MB;Avería;1;NC-2-473;
+26/04/2024;846;Rafael Emilio Polo Herrera;Sincelejo;Cindy Quinto;MB;Error de facturación ;64;NC-2-474;
+26/04/2024;846;Rafael Emilio Polo Herrera;Sincelejo;Cindy Quinto;MB;Avería;2;NC-2-475;
+26/04/2024;4590;Irma Cristina Giraldo de Ospina;Sahagun;Cindy Quinto;MB;Vencimiento de producto;4;;
+29/04/2024;7281;Laura Cristina Cardona Tamayo;;Amalia Cañas;MB;Error de envío ;10;NC-2-511;Pendientes
+30/04/2024;;Kenia Hoyos;Necoclí;Amalia Cañas;;Pedido incompleto;4;;Pendientes
+1/05/2024;7529;Ramírez Moreno y Asociado;Itagüí;Andrea Herrera;MB;Error de envío ;2;NC-2-478;
+5/05/2024;7493;Santiago Martínez;Manizales;Laura;MB;Avería;1;NC-2_521;
+9/05/2024;7529;Ramírez Moreno y Asociado;Itagüí;Andrea Herrera;MB;Devolución;2;;
+9/05/2024;7529;Ramírez Moreno y Asociado;Itagüí;Andrea Herrera;MB;Devolución;2;;
+12/05/2024;6137;Marcela Cárdenas Amariles;Chigorodó;Amalia Cañas;MB;Pedido mal despachado;3;NC-2-437;
+12/05/2024;7226;Marcela Cárdenas Amariles;Chigorodó;Amalia Cañas;MB;Avería;12;NC-2-438;
+13/05/2024;;Juan Fernando Duque Osorio;Carepa;Amalia Cañas;MB;Expectativas no cumplidas por el producto;13;;
+14/05/2024;7691;Juan Diego Ruiz;Rionegro;Andrea Herrera;MB;Pedido incompleto;2;;
+14/05/2024;7692;Juan Diego Ruiz;Rionegro;Andrea Herrera;MB;Pedido incompleto;2;;
+15/05/2024;4123;Jhonatan Vivas;Buenaventura;Sulmi Ruíz;EF;Error de envío ;1;;Nota crédito
+16/05/2024;7318;Kety Paola Polo Martínez;Cartagena;Cindy Quinto;MB;Rechazo por demora;1;;Nota crédito
+20/05/2024;7084;Jeanneth Gonzalez;Santa Fe;Andrea Herrera;MB;Error de envío ;1;NC-2-195;
+20/05/2024;4383;Jesús Juvenal Mosquera;Quibdó;Sandra Correa;EF;No llegó el pedido;1;;Revisión de inventario
+20/05/2024;7725;El papá de los Remates;Quibdó;Sandra Correa;MB;Error de facturación ;1;;Nota crédito
+20/05/2024;7901;Néstor Zuluaga Gómez;Cali;Sulmi Ruíz;MB;Expectativas no cumplidas por el producto;2;;
+21/05/2024;6519;Yoiner Fabian Sanchez;Cali;Sulmi Ruíz;MB;Error de envío ;13;NC-2-506;
+21/05/2024;7754;Elsa Magaly Salazar;Cali;Sulmi Ruíz;MB;Error de envío ;1;;
+28/05/2024;4546;Yolanda Valencia Terán;Cali;Sulmi Ruíz;EF;Error de facturación ;6;;
+29/05/2024;1284;Luz Helena Parra Escobar;Cali;Sulmi Ruíz;AJ;Error de facturación;1;;
+29/05/2024;4518;Ayleen Loreen Hooker Myles;Medellín;Andrea Herrera;EF;Exceso de pedido;6;;
+4/06/2024;7804;Eittty Degameth Mosquera;Quibdó;Sandra Correa;EF;Error de envío ;1;NC-2-512;Nota crédito
+5/06/2024;7940;Santiago Martínez;Manizales;Laura;MB;Avería;1;NC-2-520;
+5/06/2024;7160;Santiago Martínez;Manizales;Laura;MB;Exceso de pedido;1;NC-2-522;
+5/06/2024;1291;Jhon Edison Álvarez;Pereira;Laura;AJ;Error de facturación ;48;;
+5/06/2024;3103;Maria Victoria Meza Vergel;Cartagena;Ada Grimaldi;EF;Expectativas no cumplidas por el producto;1;;
+18/06/2024;7199;Johny Alejandro Arismendy;Barbosa;Andrea Herrera;MB;Devolucion;6;NC-2-526;
+18/06/2024;7551;Martín Alonso Sánchez;Copacabana;Andrea Herrera;MB;Error de envio ;6;NC-2-527;
+18/06/2024;7546;Juan Mauricio Sánchez;Copacabana;Andrea Herrera;MB;Avería;1;;
+18/06/2024;7565;Leonardo Alberto Martínez;Rionegro;Andrea Herrera;MB;Avería;1;;
+18/06/2024;8134;Erika Tatiana Alzate;Copacabana;Andrea Herrera;MB;Avería;6;;
+18/06/2024;7779;Tu Pelo;Medellín;Andrea Herrera;MB;Defectos en el contenido;2;;
+24/06/2024;7371;Ramírez Moreno y Asociado;Itagüí;Andrea Herrera;MB;Otro motivo;1;NC-2-534;
+24/06/2024;7576;Ricardo Alberto Otálvaro;Copacabana;Andrea Herrera;MB;Exceso de pedido;4;NC-2-535;
+3/09/2024;;Hermes Milton;Florida;Sulmi Ruíz;MB;Error de envío ;16;NC-2-472;
+;;Gonzalez Ensuncho SAS;Cartagena;Cindy Quinto;MB;Devolución;61;;
+;6363;Armando Ramos Lenis;Cali;Katerin Vanegas;MB;Pedido incompleto;42;;Nota crédito
